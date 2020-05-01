@@ -6,5 +6,5 @@
 - Basic of function
 - Function calling Mechanism
 - Working with Variables and Constants
-- Expression and statements
+- Expression and statement
  
