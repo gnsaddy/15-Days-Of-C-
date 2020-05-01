@@ -5,8 +5,8 @@
 - [x] using namespace std
 - [x] Basic of function
 - [x] Function calling Mechanism
-- [ ] Working with Variables and Constants
-- [ ] Expression and statements
+- [x] Working with Variables and Constants
+
  
 
 
