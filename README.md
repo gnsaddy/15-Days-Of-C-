@@ -8,8 +8,8 @@
 - [x] Working with Variables and Constants
 
  ## Day-2 : Function, Expression and statements in C++
-- [ ] Expression and statements
-- [ ] Functions
+- [x] Expression and statements
+- [x] Functions
 - [ ] Loops
 
 ## Day-3 : Object Oriented Programming
