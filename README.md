@@ -10,9 +10,10 @@
  ## Day-2 : Function, Expression and statements in C++
 - [ ] Expression and statements
 - [ ] Functions
-- [ ] Loops
 
 ## Day-3 : Object Oriented Programming
+- [ ] Loops
+- [ ] Classes and Objects
 
 
 
