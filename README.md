@@ -15,6 +15,10 @@
 
 ## Day-3 : Object Oriented Programming
 - [x] Classes and Objects
+- [x] Implementing class Methods
+
+## Day-4 : Constructor and Destructor
+- [ ] Adding Constructors and Destructors
 
 
 
