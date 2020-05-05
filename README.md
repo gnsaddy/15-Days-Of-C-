@@ -19,6 +19,11 @@
 
 ## Day-4 : Constructor and Destructor
 - [ ] Adding Constructors and Destructors
+- [ ] Types of constructor
+
+## Day-5 Pointers
+-
+
 
 
 
