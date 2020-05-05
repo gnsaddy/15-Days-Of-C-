@@ -18,11 +18,12 @@
 - [x] Implementing class Methods
 
 ## Day-4 : Constructor and Destructor
-- [ ] Adding Constructors and Destructors
-- [ ] Types of constructor
+- [x] Adding Constructors and Destructors
+- [x] Types of constructor
 
 ## Day-5 Pointers
--
+- [x] Basic Pointer
+- [x] Pointer as arguments
 
 
 
