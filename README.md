@@ -25,6 +25,9 @@
 - [x] Basic Pointer
 - [x] Pointer as arguments
 
+## Day-6 Array
+
+
 
 
 
