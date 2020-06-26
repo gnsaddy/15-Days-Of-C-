@@ -1,0 +1,7 @@
+Client message : hi
+Server message : Hello
+Client message : Testing socket programming
+Server message : ohh cool!!
+Client message : Testing done
+Server message : bye
+Client message : 
